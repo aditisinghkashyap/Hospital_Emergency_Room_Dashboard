@@ -2,6 +2,11 @@
 
 This project presents an **interactive Excel dashboard** that provides deep insights into a hospital's emergency room operations. It is built using **Excel Pivot Tables**, **Charts**, and **Slicers**, offering dynamic visualizations for monthly reporting.
 
+## 📊 Full-Size Dashboard Preview
+
+<img src="https://drive.google.com/uc?export=view&id=1nkm07tsq6dIufEN_ssysckONiPSvPbCx" width="1000"/>
+
+
 ## 📊 Overview
 
 The dashboard visualizes Emergency Room (ER) data across multiple dimensions including:
